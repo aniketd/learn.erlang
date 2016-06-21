@@ -1,2 +1,3 @@
 # learn.erlang
-Learn Erlang.
+
+With LYSE, EnOTP-in-Action, Erlang-in-Anger, and others.
